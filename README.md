@@ -1,3 +1,1 @@
-Hi. My name is Nat Wetzel,
-
-I am currently learning Git in CS1200.
+Hello! I'm Nat Wetzel, a first-year student at Northeastern University in Boston, Massachusetts, majoring in Computer Science. I'm honored to be an AFE Scholarship recipient and excited to be interning with Amazon in the summer of 2024. As someone of half-Vietnamese heritage, I'm deeply committed to promoting greater Southeast Asian representation in STEM.
