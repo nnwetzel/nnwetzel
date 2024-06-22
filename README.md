@@ -1,1 +1,3 @@
-Second-year Computer Science student concentrating in Artificial Intelligence at Northeastern University. Current Amazon SDE Intern and Future Engineer Scholarship recipient ($40k). Adept at problem-solving and eager to learn new technologies. Committed to increasing Southeast Asian STEM representation, given my half-Vietnamese heritage.
+Hello, I'm Nat.
+
+I'm a second-year Computer Science student at Northeastern University, concentrating in Artificial Intelligence. I’m currently an Amazon SDE Intern and Future Engineer Scholarship recipient. I'm adept at problem-solving and eager to learn new technologies.
