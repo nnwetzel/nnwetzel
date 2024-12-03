@@ -1,3 +1,3 @@
-Hi, I’m Nat.
+Hi, I’m Nathan.
 
-I’m a second-year Computer Science student at Northeastern University, concentrating in Artificial Intelligence. I enjoy solving problems and learning new technologies. I’m an Amazon Future Engineer Scholarship recipient and previously interned as an SDE at Amazon. My passion for software engineering grew during my internship, and I’m excited to explore opportunities where I can contribute to innovative projects and continue building my skills.
+I’m a second-year Computer Science student at Northeastern University, concentrating in Artificial Intelligence. As an Amazon Future Engineer Scholar and former SDE intern at Amazon, I’ve worked on projects that fueled my passion for software engineering. I enjoy learning new technologies, building scalable solutions, and contributing to innovation, and I’m eager to grow my skills and impact the tech industry.
