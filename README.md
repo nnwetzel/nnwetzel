@@ -1,3 +1,3 @@
-Hi, I'm Nat
+Computer Science student at Northeastern University, concentrating in Artificial Intelligence, interested in exploring new technologies, developing scalable solutions, and driving innovation, with a focus on continuous learning and creating meaningful impact.
 
-I’m a second-year Computer Science student at Northeastern University, concentrating in Artificial Intelligence. As an Amazon Future Engineer Scholar and former SDE intern at Amazon, I’ve worked on projects that fueled my passion for software engineering. I enjoy learning new technologies, building scalable solutions, and contributing to innovation, and I’m eager to grow my skills and impact the tech industry.
+Feel free to contact me at wetzel.na@northeastern.edu!
